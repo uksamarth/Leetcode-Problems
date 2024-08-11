@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/uksamarth/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uksamarth/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/uksamarth/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/uksamarth/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
