@@ -3,23 +3,23 @@ public:
     int mySqrt(int x) {
         if (x == 0 || x == 1) return x;  // Handle edge cases for 0 and 1
 
-        int l = 1, r = x / 2;
+        int left = 1, right = x / 2;  // Initialize search bounds
         int result = 0;
 
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            long long square = static_cast<long long>(mid) * mid;  // Use long long to avoid overflow
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            long long midSquare = static_cast<long long>(mid) * mid;  // Avoid overflow
 
-            if (square == x) {
+            if (midSquare == x) {
                 return mid;  // Found the exact square root
-            } else if (square < x) {
-                l = mid + 1;
-                result = mid;  // This might be the largest integer whose square is <= x
+            } else if (midSquare < x) {
+                left = mid + 1;
+                result = mid;  // Update result to the current mid
             } else {
-                r = mid - 1;
+                right = mid - 1;
             }
         }
 
-        return result;
+        return result;  // Result holds the integer part of the square root
     }
 };
