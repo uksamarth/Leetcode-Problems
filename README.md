@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/uksamarth/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/uksamarth/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/uksamarth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/uksamarth/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/uksamarth/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/uksamarth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/uksamarth/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uksamarth/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Recursion
