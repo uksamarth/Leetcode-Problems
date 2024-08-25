@@ -1,24 +1,19 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int left = 0 ;
-        int right= nums.size()-1;
-
-        while(left<right){
-            int mid = left + (right-left)/2;
-            int cnt = 0;
-            for(int num:nums){
-                if(num<=mid){
-                    cnt++;
-                }
-            }
-            if(cnt > mid){
-                right = mid;
-            }
-            else{
-                left = mid+1;
-            }
+        int slow = nums[0];
+        int fast = nums[0];
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while(slow!= fast);
+         // Find the entrance of the cycle
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return left;
+
+        return slow;
     }
 };
