@@ -9,41 +9,21 @@
  * };
  */
 class Solution {
-public:
-    ListNode* reverseLinkedList(ListNode* head) {
-    // Check if the list is empty
-    // or has only one node
-    if (head == NULL || head->next == NULL) {
-        
-        // No change is needed;
-        // return the current head
-        return head; 
+private:
+    ListNode* reverselist(ListNode *head){
+        ListNode *prev= nullptr, *curr = head;
+        while(curr!=nullptr){
+            ListNode *front = curr->next;
+            curr->next = prev ;
+            prev = curr;
+            curr = front;
+        }
+        return prev;
     }
 
-    // Recursive step: Reverse the remaining 
-    // part of the list and get the new head
-    ListNode* newHead = reverseLinkedList(head->next);
-
-    // Store the next node in 'front'
-    // to reverse the link
-    ListNode* front = head->next;
-
-    // Update the 'next' pointer of 'front' to
-    // point to the current head, effectively
-    // reversing the link direction
-    front->next = head;
-
-    // Set the 'next' pointer of the
-    // current head to 'null' to
-    // break the original link
-    head->next = NULL;
-
-    // Return the new head obtained
-    // from the recursion
-    return newHead;
-}
+public:
     bool isPalindrome(ListNode* head) {
-        if(head == nullptr || head->next==nullptr){
+        if(head==nullptr || head->next == nullptr){
             return true;
         }
         ListNode *slow = head, *fast = head;
@@ -51,18 +31,21 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode *newhead= reverseLinkedList(slow);
-        ListNode *first = head, *second = newhead;
-        while(second!=nullptr){
-            if(first->val!=second->val){
-                reverseLinkedList(newhead);
+        ListNode *secondhalf = reverselist(slow);
+        ListNode *firsthalf = head;
+
+        ListNode* copy = secondhalf;
+        while(secondhalf!=nullptr){
+            if(firsthalf->val != secondhalf->val){
+                reverselist(copy);
                 return false;
             }
-            first = first->next;
-            second = second->next;
+            secondhalf = secondhalf->next;
+            firsthalf = firsthalf->next;
         }
-        reverseLinkedList(newhead);
+        reverselist(copy);
         return true;
 
+        
     }
 };
