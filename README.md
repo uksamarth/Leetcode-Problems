@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uksamarth/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
