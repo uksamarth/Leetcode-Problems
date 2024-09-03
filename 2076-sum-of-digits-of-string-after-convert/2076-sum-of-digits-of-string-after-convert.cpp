@@ -10,7 +10,8 @@ public:
                 num/=10;
             }
         }
-        while(--k){
+        k = k-1;
+        while(k--){
             int new_res=0;
             while(res>0){
                 new_res +=res%10;
