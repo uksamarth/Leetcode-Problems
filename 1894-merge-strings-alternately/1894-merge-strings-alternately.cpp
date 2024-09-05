@@ -1,22 +1,18 @@
 class Solution {
 public:
-    string mergeAlternately(string str1, string str2) {
-        int i=0,j=0,k=0;
-        int n = str1.length()+str2.length();
-        string res(n, ' ');
-        while(i<str1.length() && j<str2.length()){
-            if(k%2==0){
-                res[k++] = str1[i++];
+    string mergeAlternately(string word1, string word2) {
+        string res;
+        int m = word1.length(), n = word2.length();
+        int l=0,r=0;
+        while(l<m || r<n){
+            if(l<m){
+                res.push_back(word1[l]);
+                l++;
             }
-            else{
-                res[k++] = str2[j++];
+            if(r<n){
+                res.push_back(word2[r]);
+                r++;
             }
-        }
-        while(i<str1.length()){
-            res[k++] = str1[i++];
-        }
-        while(j<str2.length()){
-            res[k++] = str2[j++];
         }
         return res;
     }
