@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/uksamarth/Leetcode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/uksamarth/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/uksamarth/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/uksamarth/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/uksamarth/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
