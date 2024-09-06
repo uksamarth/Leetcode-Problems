@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/uksamarth/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/uksamarth/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
