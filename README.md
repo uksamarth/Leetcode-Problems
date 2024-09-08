@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/uksamarth/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/uksamarth/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/uksamarth/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## String
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/uksamarth/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
