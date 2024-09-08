@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uksamarth/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/uksamarth/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uksamarth/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/uksamarth/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/uksamarth/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/uksamarth/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## String
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/uksamarth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/uksamarth/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uksamarth/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/uksamarth/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
@@ -171,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/uksamarth/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uksamarth/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## String Matching
