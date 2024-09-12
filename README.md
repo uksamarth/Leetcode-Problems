@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/uksamarth/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/uksamarth/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/uksamarth/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/uksamarth/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/uksamarth/Leetcode-Problems/tree/master/0443-string-compression) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/uksamarth/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/uksamarth/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
