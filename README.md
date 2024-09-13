@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/uksamarth/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/uksamarth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/uksamarth/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [1435-xor-queries-of-a-subarray](https://github.com/uksamarth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/uksamarth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/uksamarth/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
