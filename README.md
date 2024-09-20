@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/uksamarth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/uksamarth/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/uksamarth/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -307,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/uksamarth/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/uksamarth/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
