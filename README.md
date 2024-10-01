@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/uksamarth/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/uksamarth/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/uksamarth/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/uksamarth/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/uksamarth/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/uksamarth/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/uksamarth/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/uksamarth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/uksamarth/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1833-find-the-highest-altitude](https://github.com/uksamarth/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/uksamarth/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
