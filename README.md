@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uksamarth/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/uksamarth/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/uksamarth/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/uksamarth/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/uksamarth/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/uksamarth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/uksamarth/Leetcode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
