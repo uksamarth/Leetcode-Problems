@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/uksamarth/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/uksamarth/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/uksamarth/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/uksamarth/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/uksamarth/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
