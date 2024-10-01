@@ -1,65 +1,31 @@
-constexpr static int FIRST_LETTER = 'a';
-constexpr static int LAST_LETTER = 'z';
-constexpr static int ALPHABET_SIZE = LAST_LETTER - FIRST_LETTER + 1;
-
-struct Node 
-{
-    array<unique_ptr<Node>, ALPHABET_SIZE> children{};
-    bool isTerminal = false;
-};
-
-class Trie 
-{
-    unique_ptr<Node> root = make_unique<Node>();
-
+class Trie {
 public:
-    Trie() 
-    {
-    }
-
-private:
-    Node* searchImpl(const string& word)
-    {
-        auto* node = root.get();
-        for (int i = 0; i < word.length(); ++i) 
-        {
-            const int letter = word[i] - FIRST_LETTER;
-            if (!node->children[letter]) 
-            {
-                return nullptr;
-            }
-            node = node->children[letter].get();
-        }
-        return node;
-    }
-
-public:
-    void insert(const string& word) 
-    {
-        auto* node = root.get();
-        for (int i = 0; i < word.length(); ++i) 
-        {
-            const int letter = word[i] - FIRST_LETTER;
-            if (!node->children[letter]) 
-            {
-                node->children[letter] = make_unique<Node>();
-            }
-            node = node->children[letter].get();
-        }
-        node->isTerminal = true; 
+    unordered_set<string>st;
+    Trie() {
+        unordered_set<string>st;
     }
     
-    bool search(const string& word) 
-    {
-        auto* node = searchImpl(word);
-        if (!node)
-            return false;
-        return node->isTerminal;
+    void insert(string word) {
+        st.insert(word);
     }
     
-    bool startsWith(const string& word) 
-    {
-        auto* node = searchImpl(word);
-        return node != nullptr;
+    bool search(string word) {
+        if(st.find(word)!=st.end()) return 1;
+        return 0;
+    }
+    
+    bool startsWith(string prefix) {
+        for(string str : st)
+            if(str.find(prefix)==0)
+                return 1;
+        return 0;
     }
 };
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie* obj = new Trie();
+ * obj->insert(word);
+ * bool param_2 = obj->search(word);
+ * bool param_3 = obj->startsWith(prefix);
+ */
