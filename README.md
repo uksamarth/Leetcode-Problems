@@ -387,11 +387,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/uksamarth/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/uksamarth/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 ## Segment Tree
 |  |
 | ------- |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/uksamarth/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
