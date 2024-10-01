@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/uksamarth/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/uksamarth/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/uksamarth/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/uksamarth/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/uksamarth/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/uksamarth/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -513,5 +515,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/uksamarth/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
