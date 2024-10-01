@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/uksamarth/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/uksamarth/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/uksamarth/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2755-extra-characters-in-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Linked List
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/uksamarth/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/uksamarth/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/uksamarth/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/uksamarth/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
