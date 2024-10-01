@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0649-dota2-senate) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/uksamarth/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0649-dota2-senate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/uksamarth/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/uksamarth/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/uksamarth/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 ## Segment Tree
