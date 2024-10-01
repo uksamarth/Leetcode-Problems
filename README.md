@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/uksamarth/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/uksamarth/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/uksamarth/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/uksamarth/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/uksamarth/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/uksamarth/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/uksamarth/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
@@ -414,9 +416,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/uksamarth/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/uksamarth/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/uksamarth/Leetcode-Problems/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
