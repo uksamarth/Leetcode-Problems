@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/uksamarth/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/uksamarth/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/uksamarth/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/uksamarth/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/uksamarth/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/uksamarth/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/uksamarth/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/uksamarth/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/uksamarth/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/uksamarth/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/uksamarth/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/uksamarth/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/uksamarth/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
