@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uksamarth/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/uksamarth/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0605-can-place-flowers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/uksamarth/Leetcode-Problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/uksamarth/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/uksamarth/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/uksamarth/Leetcode-Problems/tree/master/0649-dota2-senate) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/uksamarth/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/uksamarth/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/uksamarth/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/uksamarth/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/uksamarth/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -385,11 +389,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/uksamarth/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/uksamarth/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/uksamarth/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -432,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/uksamarth/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/uksamarth/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/uksamarth/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/uksamarth/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/uksamarth/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
