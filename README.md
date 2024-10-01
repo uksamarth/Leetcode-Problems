@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/uksamarth/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/uksamarth/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/uksamarth/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uksamarth/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uksamarth/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/uksamarth/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/uksamarth/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/uksamarth/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/uksamarth/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/uksamarth/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/uksamarth/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/uksamarth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/uksamarth/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/uksamarth/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/uksamarth/Leetcode-Problems/tree/master/0937-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/uksamarth/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
